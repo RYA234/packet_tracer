@@ -198,3 +198,6 @@ Trace complete.
 ```
 
 # 参考
+徹底攻略Cisco CCENT/CCNA Routing & Switching教科書ICND1編［100-105J］［200-125J］V3.0対応 徹底攻略シリーズ
+
+pp319 スタティックルーティングについて
